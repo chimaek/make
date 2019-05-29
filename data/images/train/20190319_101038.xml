@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Engineering College Building 4</folder>
+	<filename>20190319_101038.jpg</filename>
+	<path>C:\Users\pipir\Downloads\drive-download-20190512T131245Z-001\Engineering College Building 4\20190319_101038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Engineering College Building 4</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>302</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Engineering College Building 4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>273</ymin>
+			<xmax>149</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Engineering College Building 4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>15</ymin>
+			<xmax>290</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

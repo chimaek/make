@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Information Telecommunication Center</folder>
+	<filename>20190402_082821(0).jpg</filename>
+	<path>C:\Users\pipir\Downloads\drive-download-20190512T131245Z-001\Information Telecommunication Center\20190402_082821(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Information Telecommunication Center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>189</ymin>
+			<xmax>356</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Information Telecommunication Center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>150</ymin>
+			<xmax>409</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Information Telecommunication Center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>10</ymin>
+			<xmax>499</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

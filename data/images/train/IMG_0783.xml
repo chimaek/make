@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ara Hall</folder>
+	<filename>IMG_0783.JPG</filename>
+	<path>C:\Users\user\Desktop\Ara Hall\IMG_0783.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ara Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>95</ymin>
+			<xmax>500</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

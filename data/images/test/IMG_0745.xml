@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ara Hall</folder>
+	<filename>IMG_0745.JPG</filename>
+	<path>C:\Users\user\Desktop\Ara Hall\IMG_0745.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ara Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>215</ymin>
+			<xmax>493</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College Of Education</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>96</ymin>
+			<xmax>104</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

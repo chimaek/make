@@ -1,0 +1,38 @@
+<annotation>
+	<folder>College of Nursing</folder>
+	<filename>20190504_154634(0).jpg</filename>
+	<path>C:\Users\JUWON\Desktop\College of Nursing\20190504_154634(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College of Nursing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>20</ymin>
+			<xmax>488</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Nursing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>140</ymin>
+			<xmax>208</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

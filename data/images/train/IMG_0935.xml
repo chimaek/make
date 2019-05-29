@@ -1,0 +1,26 @@
+<annotation>
+	<folder>College Of Education</folder>
+	<filename>IMG_0935.JPG</filename>
+	<path>C:\Users\user\Desktop\College Of Education\IMG_0935.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College Of Education</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>99</ymin>
+			<xmax>391</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

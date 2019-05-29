@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ara Hall</folder>
+	<filename>IMG_0789.JPG</filename>
+	<path>C:\Users\user\Desktop\Ara Hall\IMG_0789.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ara Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>111</ymin>
+			<xmax>503</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ara Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>181</ymin>
+			<xmax>501</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
