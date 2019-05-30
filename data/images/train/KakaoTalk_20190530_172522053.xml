@@ -1,0 +1,38 @@
+<annotation>
+	<folder>새 폴더</folder>
+	<filename>KakaoTalk_20190530_172522053.jpg</filename>
+	<path>C:\Users\pipir\Desktop\새 폴더\KakaoTalk_20190530_172522053.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CWB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>265</ymin>
+			<xmax>623</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CWB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>285</ymin>
+			<xmax>579</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>
