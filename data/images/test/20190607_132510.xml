@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phostr</folder>
+	<filename>20190607_132510.jpg</filename>
+	<path>C:\Users\pipir\Desktop\phostr\20190607_132510.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5312</width>
+		<height>2988</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College of Social Science</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2116</xmin>
+			<ymin>1161</ymin>
+			<xmax>3898</xmax>
+			<ymax>1751</ymax>
+		</bndbox>
+	</object>
+</annotation>

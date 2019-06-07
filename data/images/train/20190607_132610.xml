@@ -1,0 +1,50 @@
+<annotation>
+	<folder>phostr</folder>
+	<filename>20190607_132610.jpg</filename>
+	<path>C:\Users\pipir\Desktop\phostr\20190607_132610.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5312</width>
+		<height>2988</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College Of Education</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>861</ymin>
+			<xmax>1973</xmax>
+			<ymax>2011</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Engineering College Building 4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2780</xmin>
+			<ymin>1319</ymin>
+			<xmax>3202</xmax>
+			<ymax>1865</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Information Telecommunication Center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3544</xmin>
+			<ymin>1079</ymin>
+			<xmax>4773</xmax>
+			<ymax>1797</ymax>
+		</bndbox>
+	</object>
+</annotation>

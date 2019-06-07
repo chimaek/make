@@ -1,0 +1,38 @@
+<annotation>
+	<folder>phostr</folder>
+	<filename>20190607_132403.jpg</filename>
+	<path>C:\Users\pipir\Desktop\phostr\20190607_132403.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5312</width>
+		<height>2988</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Information Telecommunication Center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>4</ymin>
+			<xmax>5152</xmax>
+			<ymax>2586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Information Telecommunication Center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>1365</ymin>
+			<xmax>3391</xmax>
+			<ymax>1986</ymax>
+		</bndbox>
+	</object>
+</annotation>

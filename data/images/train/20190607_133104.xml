@@ -1,0 +1,38 @@
+<annotation>
+	<folder>phostr</folder>
+	<filename>20190607_133104.jpg</filename>
+	<path>C:\Users\pipir\Desktop\phostr\20190607_133104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5312</width>
+		<height>2988</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College of Nursing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>716</xmin>
+			<ymin>83</ymin>
+			<xmax>3823</xmax>
+			<ymax>2465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Nursing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2209</xmin>
+			<ymin>101</ymin>
+			<xmax>3041</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>
