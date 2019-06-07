@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JNU</folder>
+	<filename>IMG_1265.JPG</filename>
+	<path>C:\Users\user\Desktop\JNU\IMG_1265.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Global House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>1331</ymin>
+			<xmax>965</xmax>
+			<ymax>2104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Second Library</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2527</xmin>
+			<ymin>1897</ymin>
+			<xmax>3184</xmax>
+			<ymax>2173</ymax>
+		</bndbox>
+	</object>
+</annotation>

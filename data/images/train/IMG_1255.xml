@@ -1,0 +1,62 @@
+<annotation>
+	<folder>JNU</folder>
+	<filename>IMG_1255.JPG</filename>
+	<path>C:\Users\user\Desktop\JNU\IMG_1255.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Global House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>300</ymin>
+			<xmax>1054</xmax>
+			<ymax>2862</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Joint Experimental Labs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1054</xmin>
+			<ymin>1997</ymin>
+			<xmax>1515</xmax>
+			<ymax>2316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Second Library</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1869</xmin>
+			<ymin>1747</ymin>
+			<xmax>2750</xmax>
+			<ymax>2023</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Second Library</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2242</xmin>
+			<ymin>2204</ymin>
+			<xmax>2792</xmax>
+			<ymax>2397</ymax>
+		</bndbox>
+	</object>
+</annotation>
