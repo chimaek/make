@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JNU</folder>
+	<filename>IMG_1424.JPG</filename>
+	<path>C:\Users\user\Desktop\JNU\IMG_1424.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Natural Science2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>62</ymin>
+			<xmax>3904</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Natural Science2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2407</xmin>
+			<ymin>16</ymin>
+			<xmax>3946</xmax>
+			<ymax>2885</ymax>
+		</bndbox>
+	</object>
+</annotation>

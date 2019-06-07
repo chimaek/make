@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JNU</folder>
+	<filename>IMG_1342.JPG</filename>
+	<path>C:\Users\user\Desktop\JNU\IMG_1342.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Joint Experimental Labs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2407</xmin>
+			<ymin>1931</ymin>
+			<xmax>2573</xmax>
+			<ymax>2185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Second Library</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>77</ymin>
+			<xmax>2388</xmax>
+			<ymax>2823</ymax>
+		</bndbox>
+	</object>
+</annotation>
