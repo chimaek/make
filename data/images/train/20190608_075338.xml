@@ -1,0 +1,50 @@
+<annotation>
+	<folder>qwer</folder>
+	<filename>20190608_075338.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\20190608_075338.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main Building of University</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>116</ymin>
+			<xmax>3995</xmax>
+			<ymax>2987</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Main Building of University</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2395</xmin>
+			<ymin>1332</ymin>
+			<xmax>3792</xmax>
+			<ymax>1941</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Main Building of University</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>151</ymin>
+			<xmax>1831</xmax>
+			<ymax>3005</ymax>
+		</bndbox>
+	</object>
+</annotation>

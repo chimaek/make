@@ -1,0 +1,50 @@
+<annotation>
+	<folder>qwer</folder>
+	<filename>20190608_080200(0).jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\20190608_080200(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Students' Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2111</xmin>
+			<ymin>630</ymin>
+			<xmax>3104</xmax>
+			<ymax>1485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Social Sciences</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>613</xmin>
+			<ymin>32</ymin>
+			<xmax>2102</xmax>
+			<ymax>1457</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Social Sciences</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1836</xmin>
+			<ymin>271</ymin>
+			<xmax>2049</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

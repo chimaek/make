@@ -1,0 +1,62 @@
+<annotation>
+	<folder>qwer</folder>
+	<filename>20190608_080255.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\20190608_080255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College of Social Sciences</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>637</ymin>
+			<xmax>3038</xmax>
+			<ymax>2862</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Social Sciences</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1322</xmin>
+			<ymin>710</ymin>
+			<xmax>2917</xmax>
+			<ymax>2862</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Social Sciences</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>941</ymin>
+			<xmax>1256</xmax>
+			<ymax>2848</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Social Sciences</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>897</xmin>
+			<ymin>1012</ymin>
+			<xmax>1211</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+</annotation>
