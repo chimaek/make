@@ -1,0 +1,26 @@
+<annotation>
+	<folder>qwer</folder>
+	<filename>20190608_074301.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\20190608_074301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gym</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>1091</ymin>
+			<xmax>3099</xmax>
+			<ymax>3012</ymax>
+		</bndbox>
+	</object>
+</annotation>
