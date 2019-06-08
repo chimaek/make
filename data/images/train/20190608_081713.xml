@@ -1,0 +1,50 @@
+<annotation>
+	<folder>qwer</folder>
+	<filename>20190608_081713.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\20190608_081713.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Institute of Foreign Language Education</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>35</ymin>
+			<xmax>3786</xmax>
+			<ymax>2928</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Institute of Foreign Language Education</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>1916</ymin>
+			<xmax>2772</xmax>
+			<ymax>2262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Institute of Foreign Language Education</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1008</xmin>
+			<ymin>246</ymin>
+			<xmax>2574</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+</annotation>
