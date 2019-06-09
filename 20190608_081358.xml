@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>qwer</folder>
+	<filename>20190608_081358.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\20190608_081358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Students Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>569</ymin>
+			<xmax>2897</xmax>
+			<ymax>2112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Students Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>687</ymin>
+			<xmax>1706</xmax>
+			<ymax>2014</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Students Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>1485</ymin>
+			<xmax>1652</xmax>
+			<ymax>2023</ymax>
+		</bndbox>
+	</object>
+</annotation>
