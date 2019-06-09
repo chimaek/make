@@ -1,7 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4671a50-8901-4954-aea1-af912872a38e" name="Default Changelist" comment="" />
+    <list default="true" id="c4671a50-8901-4954-aea1-af912872a38e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_075212.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_075218.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_075304.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080151.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080207.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080211.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080222.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080225.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080236(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080311.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080314.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080316.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080330.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080432(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080434.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080544(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_080621.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081138.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081236(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081257.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081300.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081310.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081337.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081356(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081400.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081422.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081428.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081429.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081911.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081920.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081923.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_081936(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082004.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082019(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082029.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082044.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082053.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082127.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082139(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082142(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/test/20190608_082142.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075207.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075211.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075213.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075214.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075216.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075301.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075302.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075303.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075305.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075449.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075450.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075922.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_075939.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080009.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080023.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080141.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080144.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080150.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080153.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080159(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080159.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080200(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080200.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080206.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080208.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080209.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080212.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080213.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080222(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080223(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080223.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080230(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080230.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080231.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080236.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080238.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080308.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080310(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080310.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080313(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080313.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080314(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080315(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080315.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080316(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080318.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080319.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080320.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080327.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080328.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080329.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080430.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080431(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080431.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080432.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080433.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080434(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080436.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080437(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080437.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080541.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080542.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080543.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080544.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080546.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080620(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_080620.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081136.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081137(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081137.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081139(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081139.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081223.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081235.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081236.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081237(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081237.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081258.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081259(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081259.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081303.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081304.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081308.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081328.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081330(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081331.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081339.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081357.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081358.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081418.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081421.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081422(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081423(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081423.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081424.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081425(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081425.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081427.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081909.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081910.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081911(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081918(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081918.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081919.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081921.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081922.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081923(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081933.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081934(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081935.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081946(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081949(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_081949.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082003.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082009(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082009.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082010.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082019.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082020.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082042.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082043.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082044(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082049.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082050(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082050.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082125.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082126(0).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082126.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082128.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082129.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082138.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082139.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082140.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082141.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/train/20190608_082143.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,36 +201,6 @@
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/images/train/20190608_082139.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/images/train/20190608_082143.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/images/train/20190608_082141.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-664" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/images/train/20190608_082140.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168" />
           </provider>
         </entry>
       </file>
@@ -116,6 +268,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -196,23 +349,22 @@
       <option name="presentableId" value="Default" />
       <updated>1559996793587</updated>
       <workItem from="1559996805925" duration="658000" />
-      <workItem from="1560051618969" duration="4083000" />
+      <workItem from="1560051618969" duration="4680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4741000" />
+    <option name="totallyTimeSpent" value="5338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
