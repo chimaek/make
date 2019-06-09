@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>20190608_080445(0).jpg</filename>
-	<path>C:\Users\JUWON\Desktop\qwer\train\20190608_080445(0).jpg</path>
+	<filename>20190608_080619.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\train\20190608_080619.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>120</xmin>
-			<ymin>721</ymin>
-			<xmax>2779</xmax>
-			<ymax>2723</ymax>
+			<xmin>1981</xmin>
+			<ymin>246</ymin>
+			<xmax>4022</xmax>
+			<ymax>1839</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>College of Social Sciences</name>
+		<name>Student Hall</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>540</xmin>
-			<ymin>887</ymin>
-			<xmax>856</xmax>
-			<ymax>2489</ymax>
+			<xmin>911</xmin>
+			<ymin>1089</ymin>
+			<xmax>1942</xmax>
+			<ymax>1680</ymax>
 		</bndbox>
 	</object>
 </annotation>

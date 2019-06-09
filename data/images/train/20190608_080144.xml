@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>20190608_080445(0).jpg</filename>
-	<path>C:\Users\JUWON\Desktop\qwer\train\20190608_080445(0).jpg</path>
+	<filename>20190608_080144.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\qwer\train\20190608_080144.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>120</xmin>
-			<ymin>721</ymin>
-			<xmax>2779</xmax>
-			<ymax>2723</ymax>
+			<xmin>22</xmin>
+			<ymin>32</ymin>
+			<xmax>2270</xmax>
+			<ymax>2087</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>540</xmin>
-			<ymin>887</ymin>
-			<xmax>856</xmax>
-			<ymax>2489</ymax>
+			<xmin>804</xmin>
+			<ymin>1262</ymin>
+			<xmax>1715</xmax>
+			<ymax>2253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Student Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2267</xmin>
+			<ymin>1228</ymin>
+			<xmax>2845</xmax>
+			<ymax>1871</ymax>
 		</bndbox>
 	</object>
 </annotation>
