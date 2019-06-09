@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>91.jpg</filename>
+	<path>C:\Users\pipir\Desktop\object_detection_demo-master\data\91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College of Medicine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>222</ymin>
+			<xmax>400</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

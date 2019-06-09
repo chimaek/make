@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>130.jpg</filename>
+	<path>C:\Users\pipir\Desktop\object_detection_demo-master\data\130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main Building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>51</ymin>
+			<xmax>670</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ara Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>262</ymin>
+			<xmax>670</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

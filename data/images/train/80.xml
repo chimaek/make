@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>80.jpg</filename>
+	<path>C:\Users\pipir\Desktop\object_detection_demo-master\data\80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College of Marine Science</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>151</ymin>
+			<xmax>650</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>College of Marine Science</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>154</ymin>
+			<xmax>496</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

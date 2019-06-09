@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>124.jpg</filename>
+	<path>C:\Users\pipir\Desktop\object_detection_demo-master\data\124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main Building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>4</ymin>
+			<xmax>790</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Main Building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>111</ymin>
+			<xmax>387</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
