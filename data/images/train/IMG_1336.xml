@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JNU</folder>
+	<filename>IMG_1336.JPG</filename>
+	<path>C:\Users\user\Desktop\JNU\IMG_1336.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Second Library</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>23</ymin>
+			<xmax>491</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

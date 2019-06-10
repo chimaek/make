@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JNU</folder>
+	<filename>IMG_1233.JPG</filename>
+	<path>C:\Users\user\Desktop\JNU\IMG_1233.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Global House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>85</ymin>
+			<xmax>503</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JNU</folder>
+	<filename>IMG_1459.JPG</filename>
+	<path>C:\Users\user\Desktop\JNU\IMG_1459.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Museum</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>54</ymin>
+			<xmax>504</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>
