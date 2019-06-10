@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20190608_075525.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\train\20190608_075525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main Building of University</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>381</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Main Building of University</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>60</ymin>
+			<xmax>382</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

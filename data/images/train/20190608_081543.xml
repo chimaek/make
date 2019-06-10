@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20190608_081543.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\train\20190608_081543.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Foreign Language Institute</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>8</ymin>
+			<xmax>433</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Foreign Language Institute</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>177</ymin>
+			<xmax>242</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

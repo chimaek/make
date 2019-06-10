@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20190608_081138.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\test\20190608_081138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Student Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>4</ymin>
+			<xmax>415</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Student Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>4</ymin>
+			<xmax>348</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

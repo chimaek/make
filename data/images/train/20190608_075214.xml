@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20190608_075214.jpg</filename>
+	<path>C:\Users\JUWON\Desktop\train\20190608_075214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>College of Social Sciences</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>74</ymin>
+			<xmax>104</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Student Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>91</ymin>
+			<xmax>369</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>
